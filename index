@@ -1,0 +1,950 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>目的地</title>
+	<link rel="stylesheet" type="text/css" href="css/reset.css">
+	<link rel="stylesheet" type="text/css" href="css/index.css">
+</head>
+<body>
+	<!-- 头部 -->
+	<header>
+		<section class="header_box">
+			<!-- logo -->
+			<figure class="header_img">
+				<img src="img/logo.png">
+			</figure>
+			<!-- 导航部分 -->
+			<section class="header_nav">
+				<ul class="header_list">
+					<li class="header_list_li1">
+						<figure>
+							<img src="img/phone.png">
+						</figure>
+					</li>
+					<li>
+						<a href="javascript:;">登陆</a>
+					</li>
+					<li>
+						<a href="javascript:;">注册</a>
+					</li>
+					<li class="header_list_li2">
+						<a href="javascript:;">行李箱</a>
+					</li>
+					<li class="header_list_li3">
+						<form>
+							<input type="text" class="header_ipt1">
+							<input type="submit" value="" class="header_ipt2">
+						</form>
+					</li>
+				</ul>
+				<nav class="header_nav_box">
+					<ul class="header_list2">
+						<li>
+							<a href="javascript:;">第一次</a>
+						</li>
+						<li>
+							<a href="javascript:;" style="color: #176fbb;">目的地</a>
+						</li>
+						<li>
+							<a href="javascript:;">自定行程</a>
+						</li>
+						<li>
+							<a href="javascript:;">游记</a>
+						</li>
+						<li>
+							<a href="javascript:;">特产</a>
+						</li>
+						<li>
+							<a href="javascript:;">优惠</a>
+						</li>
+						<li>
+							<a href="javascript:;">环岛巴士</a>
+						</li>
+					</ul>
+				</nav>
+			</section>
+		</section>
+	</header>
+	<!-- 内容 -->
+	<main>
+		<!-- 第一部分 -->
+		<section class="main_one">
+			<!-- 目录导航 -->
+			<aside class="main_one_nav">
+				<span>首页&nbsp;&gt;</span>
+				<span>目的地&nbsp;&gt;</span>
+				<span>台北</span>
+			</aside>
+			<!-- 第一部分主体 -->
+			<article class="main_one_content">
+				<figure>
+					<img src="img/t1.jpg">
+				</figure>
+				<aside class="main_one_aside">
+					<ul class="main_one_list">
+						<li class="main_one_li1">
+							<div class="main_one_title1">
+								<h1>台北特色</h1>
+								<p>
+									<span>1168</span>
+									<span>1168</span>
+								</p>
+							</div>
+							<p>
+								台北101由台湾十二家银行及产业界共同出资兴建，造价共达五百八十亿元台币。大楼除底部裙楼作为购物商场外，将成为台北金融商业重镇，股市证交所亦将移至此。
+							</p>
+						</li>
+						<li>
+							<h1>台北推荐</h1>
+							<ul class="main_one_li2_ul">
+								<li>台北101大厦</li>
+								<li>早餐</li>
+								<li>士林夜市</li>
+								<li>士林夜市</li>
+								<li>国立故宫博物院</li>
+								<li>西门町</li>
+								<li>渔人码头</li>
+								<li>西门町</li>
+								<li>台北101大厦</li>
+								<li>早餐</li>
+								<li>士林夜市</li>
+								<li>渔人码头</li>
+							</ul>
+							<div class="main_one_li2_div">
+								<button>喜欢</button>
+								<button>评论</button>
+							</div>
+						</li>
+					</ul>
+				</aside>
+			</article>
+		</section>
+		<!-- 第二部分 -->
+		<section class="main_two">
+			<article>
+				<h2>台北热门</h2>
+				<ul class="main_two_ul">
+					<li>
+						<div class="border">
+							<p>
+								台北101大厦
+							</p>
+						</div>
+						<figure>
+							<img src="img/2.png">
+						</figure>
+						<article>
+							<p class="main_two_ul_p1">
+								白花盛宴，黄粉相间，早定享特价，白花盛宴，黄粉相间，早定享特价，百花盛宴黄粉相间，早定享特价，白花盛宴，黄粉相间
+							</p>
+							<p class="main_two_ul_p2">
+								建议游玩时间：4小时
+							</p>
+							<p class="main_two_ul_p3">
+								营&nbsp;业&nbsp;时&nbsp;间：08：00-20：00
+							</p>
+						</article>
+						<div></div>
+						<article class="main_two_ul_article2">
+							<h3>微行程</h3>
+							<ul>
+								<li>
+									<article>
+										<p>台北风景一日游</p>
+										<p class="main_two_ul_article2_p"><span>&yen;</span>
+											<span>12488元</span>
+											/人</p>
+										<p>
+											景点：台北101大厦+台北故宫+士林夜市
+										</p>
+									</article>
+								</li>
+								<li>
+									<article>
+										<p>台北风景一日游</p>
+										<p class="main_two_ul_article2_p"><span>&yen;</span>
+											<span>12488元</span>
+											/人</p>
+										<p>
+											景点：台北101大厦+台北故宫+士林夜市...
+										</p>
+									</article>
+								</li>
+								<li>
+									<article>
+										<p>台北风景一日游</p>
+										<p class="main_two_ul_article2_p"><span>&yen;</span>
+											<span>12488元</span>
+											/人</p>
+										<p>
+											景点：台北101大厦+台北故宫+士林夜市
+										</p>
+									</article>
+								</li>
+							</ul>
+						</article>
+					</li>
+					<li>
+						<div class="border">
+							<p style="background:url('img/4.png');">
+								台北101大厦商务风景区
+							</p>
+						</div>
+						<figure>
+							<img src="img/2.png">
+						</figure>
+						<article>
+							<p class="main_two_ul_p1">
+								白花盛宴，黄粉相间，早定享特价，白花盛宴，黄粉相间，早定享特价，百花盛宴黄粉相间，早定享特价，白花盛宴，黄粉相间
+							</p>
+							<p class="main_two_ul_p2">
+								建议游玩时间：4小时
+							</p>
+							<p class="main_two_ul_p3">
+								营&nbsp;业&nbsp;时&nbsp;间：08：00-20：00
+							</p>
+						</article>
+						<div></div>
+						<article class="main_two_ul_article2">
+							<h3>微行程</h3>
+							<ul>
+								<li>
+									<article>
+										<p>台北风景一日游</p>
+										<p class="main_two_ul_article2_p"><span>&yen;</span>
+											<span>12488元</span>
+											/人</p>
+										<p>
+											景点：台北101大厦+台北故宫+士林夜市
+										</p>
+									</article>
+								</li>
+								<li>
+									<article>
+										<p>台北风景一日游</p>
+										<p class="main_two_ul_article2_p"><span>&yen;</span>
+											<span>12488元</span>
+											/人</p>
+										<p>
+											景点：台北101大厦+台北故宫+士林夜市...
+										</p>
+									</article>
+								</li>
+								<li>
+									<article>
+										<p>台北风景一日游</p>
+										<p class="main_two_ul_article2_p"><span>&yen;</span>
+											<span>12488元</span>
+											/人</p>
+										<p>
+											景点：台北101大厦+台北故宫+士林夜市
+										</p>
+									</article>
+								</li>
+							</ul>
+						</article>
+					</li>
+					<li>
+						<div class="border">
+							<p>
+								台北101大厦
+							</p>
+						</div>
+						<figure>
+							<img src="img/2.png">
+						</figure>
+						<article>
+							<p class="main_two_ul_p1">
+								白花盛宴，黄粉相间，早定享特价，白花盛宴，黄粉相间，早定享特价，百花盛宴黄粉相间，早定享特价，白花盛宴，黄粉相间
+							</p>
+							<p class="main_two_ul_p2">
+								建议游玩时间：4小时
+							</p>
+							<p class="main_two_ul_p3">
+								营&nbsp;业&nbsp;时&nbsp;间：08：00-20：00
+							</p>
+						</article>
+						<div></div>
+						<article class="main_two_ul_article2">
+							<h3>微行程</h3>
+							<ul>
+								<li>
+									<article>
+										<p>台北风景一日游</p>
+										<p class="main_two_ul_article2_p"><span>&yen;</span>
+											<span>12488元</span>
+											/人</p>
+										<p>
+											景点：台北101大厦+台北故宫+士林夜市
+										</p>
+									</article>
+								</li>
+								<li>
+									<article>
+										<p>台北风景一日游</p>
+										<p class="main_two_ul_article2_p"><span>&yen;</span>
+											<span>12488元</span>
+											/人</p>
+										<p>
+											景点：台北101大厦+台北故宫+士林夜市...
+										</p>
+									</article>
+								</li>
+								<li>
+									<article>
+										<p>台北风景一日游</p>
+										<p class="main_two_ul_article2_p"><span>&yen;</span>
+											<span>12488元</span>
+											/人</p>
+										<p>
+											景点：台北101大厦+台北故宫+士林夜市
+										</p>
+									</article>
+								</li>
+							</ul>
+						</article>
+					</li>
+				</ul>
+				<div class="main_two_btn">
+					<button>查看更多</button>
+				</div>
+			</article>
+		</section>
+		<!-- 第三部分 -->
+		<section class="main_three">
+			<article class="hotel">
+				<hgroup>
+					<h2>台北酒店</h2>
+				</hgroup>
+				<ul>
+					<li>
+						<article class="hotel_art">
+							<div class="mark"></div>
+							<div class="hotel_art_con">
+								<p>
+									大安区信义路三段11号(大安区)
+								</p>
+								<figure>
+									<img src="img/a1.png">
+									<img src="img/a1.png">
+									<img src="img/a1.png">
+									<img src="img/a1.png">
+									<img src="img/a_11.png">
+								</figure>
+								<div class="hotel_art_con_uls">
+									<ul>
+										<li><p>早餐</p></li>
+										<li><p>信用卡服务</p></li>
+										<li><p>无线</p></li>
+									</ul>
+									<ul>
+										<li><p>早餐</p></li>
+										<li><p>信用卡服务</p></li>
+										<li><p>无线</p></li>
+									</ul>
+								</div>
+							</div>
+						</article>
+						<arcticle class='hotel_txt'>
+							<p>台北悠活度悠活度假村度假村</p>
+							<ul>
+								<li><text>1168</text></li>
+								<li><text>1168</text></li>
+							</ul>
+							<div class="hotel_txt_shadow"></div>
+						</arcticle>
+					</li>
+					<li>
+						<article class="hotel_art">
+							<div class="mark"></div>
+							<div class="hotel_art_con">
+								<p>
+									大安区信义路三段11号(大安区)
+								</p>
+								<figure>
+									<img src="img/a1.png">
+									<img src="img/a1.png">
+									<img src="img/a1.png">
+									<img src="img/a1.png">
+									<img src="img/a_11.png">
+								</figure>
+								<div class="hotel_art_con_uls">
+									<ul>
+										<li><p>早餐</p></li>
+										<li><p>信用卡服务</p></li>
+										<li><p>无线</p></li>
+									</ul>
+									<ul>
+										<li><p>早餐</p></li>
+										<li><p>信用卡服务</p></li>
+										<li><p>无线</p></li>
+									</ul>
+								</div>
+							</div>
+						</article>
+						<arcticle class='hotel_txt'>
+							<p>台北悠活度悠活度假村</p>
+							<ul>
+								<li><text>1168</text></li>
+								<li><text>1168</text></li>
+							</ul>
+							<div class="hotel_txt_shadow"></div>
+						</arcticle>
+					</li>
+					<li>
+						<article class="hotel_art">
+							<div class="mark"></div>
+							<div class="hotel_art_con">
+								<p>
+									大安区信义路三段11号(大安区)
+								</p>
+								<figure>
+									<img src="img/a1.png">
+									<img src="img/a1.png">
+									<img src="img/a1.png">
+									<img src="img/a1.png">
+									<img src="img/a_11.png">
+								</figure>
+								<div class="hotel_art_con_uls">
+									<ul>
+										<li><p>早餐</p></li>
+										<li><p>信用卡服务</p></li>
+										<li><p>无线</p></li>
+									</ul>
+									<ul>
+										<li><p>早餐</p></li>
+										<li><p>信用卡服务</p></li>
+										<li><p>无线</p></li>
+									</ul>
+								</div>
+							</div>
+						</article>
+						<arcticle class='hotel_txt'>
+							<p>台北悠活度悠活度假村</p>
+							<ul>
+								<li><text>1168</text></li>
+								<li><text>1168</text></li>
+							</ul>
+							<div class="hotel_txt_shadow"></div>
+						</arcticle>
+					</li>
+				</ul>
+				<div class="main_two_btn">
+					<button>查看更多</button>
+				</div>
+			</article>
+			<article class="specialty hotel">
+				<div class="specialty_div">
+					<h2>台北特产</h2>
+					<div class="specialty_h3">
+						<p class="specialty_h3_p">伴手礼</p>
+						<span>|</span>
+						<p>美食</p>
+					</div>
+				</div>
+				<ul class="specialty_ul">
+					<li>
+						<article class="hotel_art">
+							<div class="mark"></div>
+							<div class="hotel_art_con">
+								<p>
+									大安区信义路三段11号(大安区)
+								</p>
+								<figure>
+									<img src="img/a1.png">
+									<img src="img/a1.png">
+									<img src="img/a1.png">
+									<img src="img/a1.png">
+									<img src="img/a_11.png">
+								</figure>
+								<div class="hotel_art_con_uls">
+									<ul>
+										<li><p>早餐</p></li>
+										<li><p>信用卡服务</p></li>
+										<li><p>无线</p></li>
+									</ul>
+									<ul>
+										<li><p>早餐</p></li>
+										<li><p>信用卡服务</p></li>
+										<li><p>无线</p></li>
+									</ul>
+								</div>
+							</div>
+						</article>
+						<arcticle class='hotel_txt specialty_txt'>
+							<h3>台湾碳烤盐酥鸡</h3>
+							<p>推荐：煎猪肝、猪油拌饭、招牌鸡腿、味噌松坂肉、卤肉饭、咸蛋花椰菜、冷笋沙拉、芋头排骨、蒜泥蚵、封肉</p>
+							<ul>
+								<li><text>1168</text></li>
+								<li><text>1168</text></li>
+							</ul>
+							<div class="hotel_txt_shadow"></div>
+						</arcticle>
+					</li>
+					<li>
+						<article class="hotel_art">
+							<div class="mark"></div>
+							<div class="hotel_art_con">
+								<p>
+									大安区信义路三段11号(大安区)
+								</p>
+								<figure>
+									<img src="img/a1.png">
+									<img src="img/a1.png">
+									<img src="img/a1.png">
+									<img src="img/a1.png">
+									<img src="img/a_11.png">
+								</figure>
+								<div class="hotel_art_con_uls">
+									<ul>
+										<li><p>早餐</p></li>
+										<li><p>信用卡服务</p></li>
+										<li><p>无线</p></li>
+									</ul>
+									<ul>
+										<li><p>早餐</p></li>
+										<li><p>信用卡服务</p></li>
+										<li><p>无线</p></li>
+									</ul>
+								</div>
+							</div>
+						</article>
+						<arcticle class='hotel_txt specialty_txt'>
+							<h3>台湾碳烤盐酥鸡</h3>
+							<p>推荐：煎猪肝、猪油拌饭、招牌鸡腿、味噌松坂肉、卤肉饭、咸蛋花椰菜、冷笋沙拉、芋头排骨、蒜泥蚵、封肉</p>
+							<ul>
+								<li><text>1168</text></li>
+								<li><text>1168</text></li>
+							</ul>
+							<div class="hotel_txt_shadow"></div>
+						</arcticle>
+					</li>
+					<li>
+						<article class="hotel_art">
+							<div class="mark"></div>
+							<div class="hotel_art_con">
+								<p>
+									大安区信义路三段11号(大安区)
+								</p>
+								<figure>
+									<img src="img/a1.png">
+									<img src="img/a1.png">
+									<img src="img/a1.png">
+									<img src="img/a1.png">
+									<img src="img/a_11.png">
+								</figure>
+								<div class="hotel_art_con_uls">
+									<ul>
+										<li><p>早餐</p></li>
+										<li><p>信用卡服务</p></li>
+										<li><p>无线</p></li>
+									</ul>
+									<ul>
+										<li><p>早餐</p></li>
+										<li><p>信用卡服务</p></li>
+										<li><p>无线</p></li>
+									</ul>
+								</div>
+							</div>
+						</article>
+						<arcticle class='hotel_txt specialty_txt'>
+							<h3>台湾碳烤盐酥鸡</h3>
+							<p>推荐：煎猪肝、猪油拌饭、招牌鸡腿、味噌松坂肉、卤肉饭、咸蛋花椰菜、冷笋沙拉、芋头排骨、蒜泥蚵、封肉</p>
+							<ul>
+								<li><text>1168</text></li>
+								<li><text>1168</text></li>
+							</ul>
+							<div class="hotel_txt_shadow"></div>
+						</arcticle>
+					</li>
+				</ul>
+			</article>
+		</section>
+		<!-- 第四部分 -->
+		<section class="main_four">
+			<article>
+				<hgroup>
+					<h2 class="main_four_h2">台北酒店</h2>
+				</hgroup>
+				<div class="main_four_div">
+					<figure>
+						<img src="img/r0.jpg" class="main_four_div_img">
+					</figure>
+					<div>
+						<ul class="main_four_div_ul">
+							<li>
+								<section class="main_four_div_ul_left">
+									<div class="main_four_div_ul_mainImg">
+										<figure class="mainImg_dis">
+											<img src="img/t1.jpg" width="313">
+										</figure>
+										<figure>
+											<img src="img/13_26.png" width="313">
+										</figure>
+										<figure>
+											<img src="img/13_28.png" width="313">
+										</figure>
+										<i></i>
+									</div>
+									<div class="main_four_div_ul_minImg">
+										<figure>
+											<img src="img/t1.jpg">
+										</figure>
+										<figure>
+											<img src="img/13_26.png">
+										</figure>
+										<figure>
+											<img src="img/13_28.png">
+										</figure>
+										<i class="minImgI"></i>
+									</div>
+								</section>
+								<section class="main_four_div_ul_right">
+									<div class="author">
+										<figure>
+											<img src="img/13_18.png">
+										</figure>
+										<div>
+											<p>作者：丁丁</p>
+											<ul>
+												<li>1168</li>
+												<li>1168</li>
+												<li>1168</li>
+											</ul>
+										</div>
+									</div>
+									<div class="right_txt">
+										<h2>
+											「台美丽」我要晒黑成一根木炭照亮台湾的所有角落
+										</h2>
+										<p>
+											<span><text>北京</text> To <text>台湾</text></span>
+											<span>2014年7月出发</span>        
+											<span><text>7天</text>    </span>   
+											<span>人均 : <b>8000~10000</b>元</span>  
+										</p>
+										<p>
+											楼主的思维都在努力串联在台湾14天发生的事。楼主写了两天的行程，返过来补充一句，好多东西真的只可意会，没办法言传，台湾这14天给楼主的感动可能用文字写真的太苍白，所以很多细节还是决定不提了。楼主的图片重点和......
+										</p>
+									</div>
+								</section>
+							</li>
+							<li>
+								<section class="main_four_div_ul_left">
+									<div class="main_four_div_ul_mainImg">
+										<figure class="mainImg_dis">
+											<img src="img/t1.jpg" width="313">
+										</figure>
+										<figure>
+											<img src="img/13_26.png" width="313">
+										</figure>
+										<figure>
+											<img src="img/13_28.png" width="313">
+										</figure>
+										<i></i>
+									</div>
+									<div class="main_four_div_ul_minImg">
+										<figure>
+											<img src="img/t1.jpg">
+										</figure>
+										<figure>
+											<img src="img/13_26.png">
+										</figure>
+										<figure>
+											<img src="img/13_28.png">
+										</figure>
+										<i class="minImgI"></i>
+									</div>
+								</section>
+								<section class="main_four_div_ul_right">
+									<div class="author">
+										<figure>
+											<img src="img/13_18.png">
+										</figure>
+										<div>
+											<p>作者：甲甲</p>
+											<ul>
+												<li>1168</li>
+												<li>1168</li>
+												<li>1168</li>
+											</ul>
+										</div>
+									</div>
+									<div class="right_txt">
+										<h2>
+											「台美丽」我要晒黑成一根木炭照亮台湾的所有角落
+										</h2>
+										<p>
+											<span><text>北京</text> To <text>台湾</text></span>
+											<span>2014年7月出发</span>        
+											<span><text>7天</text>    </span>   
+											<span>人均 : <b>8000~10000</b>元</span>  
+										</p>
+										<p>
+											楼主的思维都在努力串联在台湾14天发生的事。楼主写了两天的行程，返过来补充一句，好多东西真的只可意会，没办法言传，台湾这14天给楼主的感动可能用文字写真的太苍白，所以很多细节还是决定不提了。楼主的图片重点和......
+										</p>
+									</div>
+								</section>
+							</li>
+							<li>
+								<section class="main_four_div_ul_left">
+									<div class="main_four_div_ul_mainImg">
+										<figure class="mainImg_dis">
+											<img src="img/t1.jpg" width="313">
+										</figure>
+										<figure>
+											<img src="img/13_26.png" width="313">
+										</figure>
+										<figure>
+											<img src="img/13_28.png" width="313">
+										</figure>
+										<i></i>
+									</div>
+									<div class="main_four_div_ul_minImg">
+										<figure>
+											<img src="img/t1.jpg">
+										</figure>
+										<figure>
+											<img src="img/13_26.png">
+										</figure>
+										<figure>
+											<img src="img/13_28.png">
+										</figure>
+										<i class="minImgI"></i>
+									</div>
+								</section>
+								<section class="main_four_div_ul_right">
+									<div class="author">
+										<figure>
+											<img src="img/13_18.png">
+										</figure>
+										<div>
+											<p>作者：乙乙</p>
+											<ul>
+												<li>1168</li>
+												<li>1168</li>
+												<li>1168</li>
+											</ul>
+										</div>
+									</div>
+									<div class="right_txt">
+										<h2>
+											「台美丽」我要晒黑成一根木炭照亮台湾的所有角落
+										</h2>
+										<p>
+											<span><text>北京</text> To <text>台湾</text></span>
+											<span>2014年7月出发</span>        
+											<span><text>7天</text>    </span>   
+											<span>人均 : <b>8000~10000</b>元</span>  
+										</p>
+										<p>
+											楼主的思维都在努力串联在台湾14天发生的事。楼主写了两天的行程，返过来补充一句，好多东西真的只可意会，没办法言传，台湾这14天给楼主的感动可能用文字写真的太苍白，所以很多细节还是决定不提了。楼主的图片重点和......
+										</p>
+									</div>
+								</section>
+							</li>
+						</ul>
+					</div>
+					<figure>
+						<img src="img/r1.jpg" class="main_four_div_img">
+					</figure>
+				</div>
+			</article>
+		</section>
+
+		<!-- 第五部分 -->
+		<section class="main_five">
+			<article>
+				<section class="five_left">
+					<h3>评论（66）</h3>
+					<div class="five_d1">
+						<div class="five_d1_con">
+							<figure class="five_img">
+								<img src="img/z7.jpg">
+								<figcaption>闪烁尾戒</figcaption>
+							</figure>
+							<div class="five_d1_right">
+								<div>
+									要评论？请先<span>注册</span>或者<span>登录</span>，已有账号直接登录
+								</div>
+								<p>最多输入200字</p>
+							</div>
+						</div>
+						<div class="five_d1_btn">
+							<button>评 &nbsp;论</button>
+						</div>
+					</div>
+					<div class="five_d2">
+						<div class="five_d2_con">
+							<figure class="five_img">
+								<img src="img/z7.jpg">
+								<figcaption>闪烁尾戒</figcaption>
+							</figure>
+							<div class="five_d2_right">
+								<p class="five_d2_right_p1">
+									在101大楼看夕阳超赞，在西门町享受夜市的热闹，时尚与怀旧，现代与传统，激情与慢热，在这座城市自由释放。”
+								</p>
+								<div class="five_time">
+									<time>2014-7-26 14:22</time>
+									<div>
+										<p>回复</p>
+										<p>1168</p>
+										<a href="javascript:;">收起&nbsp;></a>
+									</div>
+								</div>
+								<div class="five_d2_reply">
+									<figure class="reply_img">
+										<img src="img/z8.jpg">
+										<figcaption>时尚旅游</figcaption>
+									</figure>
+									<div class="reply_right">
+										<h4>时尚旅游  回复  闪烁尾戒</h4>
+										<p>
+											在101大楼看夕阳超赞，在西门町享受夜市的热闹，时尚与怀旧，现代与传统，激情与慢热，在这座城市自由释放。”
+										</p>
+										<p>
+											2014-7-26 14:22<a>回复</a>
+										</p>
+									</div>
+								</div>
+								<div class="five_d2_reply">
+									<figure class="reply_img">
+										<img src="img/z7.jpg">
+										<figcaption>闪烁尾戒</figcaption>
+									</figure>
+									<div class="reply_right">
+										<h4>闪烁尾戒  回复  时尚旅游</h4>
+										<p>
+											在101大楼看夕阳超赞，在西门町享受夜市的热闹，时尚与怀旧，现代与传统，激情与慢热，在这座城市自由释放。”
+										</p>
+										<p>
+											2014-7-26 14:22<a>回复</a><a>删除</a>
+										</p>
+									</div>
+								</div>
+								<div class="five_d2_in">
+									<textarea></textarea>
+									<p>最多输入200字</p>
+								</div>
+							</div>
+						</div>
+						<div class="five_d1_btn">
+							<button>评 &nbsp;论</button>
+						</div>
+					</div>
+					<div class="five_d3">
+						<div class="five_d3_con">
+							<figure class="five_img">
+								<img src="img/z7.jpg">
+								<figcaption>闪烁尾戒</figcaption>
+							</figure>
+							<div class="five_d3_right">
+								<p>在101大楼看夕阳超赞，在西门町享受夜市的热闹，时尚与怀旧，现代与传统，激情与慢热，在这座城市自由释放。”</p>
+								<div class="five_time">
+									<time>2014-7-26 14:22</time>
+									<div>
+										<p>回复</p>
+										<p>1168</p>
+										<a href="javascript:;">收起&nbsp;></a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="five_d3 five_d4">
+						<div class="five_d3_con">
+							<figure class="five_img">
+								<img src="img/z7.jpg">
+								<figcaption>闪烁尾戒</figcaption>
+							</figure>
+							<div class="five_d3_right">
+								<p>在101大楼看夕阳超赞，在西门町享受夜市的热闹，时尚与怀旧，现代与传统，激情与慢热，在这座城市自由释放。”</p>
+								<div class="five_time">
+									<time>2014-7-26 14:22</time>
+									<div>
+										<p>回复</p>
+										<p>1168</p>
+										<a href="javascript:;">收起&nbsp;></a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="five_page">
+						<ul>
+							<li>◀ 上一页</li>
+							<li class="five_page_num">1</li>
+							<li class="five_page_nonum">┄</li>
+							<li class="five_page_num">5</li>
+							<li class="five_page_num now">6</li>
+							<li class="five_page_num">7</li>
+							<li class="five_page_nonum">┄</li>
+							<li class="five_page_num">12</li>
+							<li>下一页 ▶</li>
+						</ul>
+					</div>
+				</section>
+				<section class="five_right">
+					<figure>
+						<img src="img/images/rt_03.png"/>
+						<figcaption>一票在手，免费游岛</figcaption>
+					</figure>
+					<figure>
+						<img src="img/images/kju_07.png"/>
+						<figcaption>私人司导</figcaption>
+					</figure>
+				</section>
+			</article>
+		</section>
+	</main>
+
+
+
+	<!-- 底部 -->
+
+
+
+	<footer>
+		<ul class="footer_list">
+			<li class="footer_list_li1">
+				<h2>关于遛湾</h2>
+				<p>公司简介</p>
+				<p>联系我们</p>
+				<p>诚聘英才</p>
+				<p>网站地图</p>
+			</li>
+			<li>
+				<h2>帮助中心</h2>
+				<p>赴台手续 </p>
+				<p>遛湾玩法</p>
+				<p>常见问题</p>
+			</li>
+			<li>
+				<h2>网站条款</h2>
+				<p>服务条款 </p>
+				<p>免责声明</p>
+			</li>
+			<li class="footer_list_li2">
+				<h2>关注我们</h2>
+				<figure>
+					<img src="img/s.png">
+				</figure>
+			</li>
+			<li class="footer_list_li3">
+				<h1>400 820 8820</h1>
+				<p>周一至周日</p>
+				<time>9:00-20:00</time>
+				<button  class="footer_list_li3_btn">
+					在线服务咨询 &gt;&gt;
+				</button>
+			</li>
+		</ul>
+		<!-- 备案 -->
+		<leo>
+			Copyright&nbsp;&copy;&nbsp;2013-2014&nbsp;www.6waner.cn&nbsp;All&nbsp;Right&nbsp;Reserved.&nbsp;京ICP备11
+		</leo>
+	</footer>
+	<script type="text/javascript" src="js/index.js"></script>
+</body>
+</html>
